@@ -1,0 +1,6 @@
+{
+  "name": "Himali's Birthday Surprise",
+  "description": "An interactive 6-page birthday surprise website crafted specially for Himali with games, heartfelt messages, and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
